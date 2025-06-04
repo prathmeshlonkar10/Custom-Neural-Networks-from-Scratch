@@ -59,6 +59,7 @@ In this notebook, you'll find:
 ## 📈 Visualizations
 
 **Line Plot** comparing predictions of both models and ground truth labels
+
 ![predictions](assets/predictions.png)
 
 ## 📌 Summary
