@@ -18,7 +18,6 @@ In this notebook, you'll find:
 - Gradient descent to update weights and bias
 - Training loop with accuracy and loss tracking
 - Visual comparison of predictions from the custom model vs. the TensorFlow model
-- 3D plot of predicted probabilities based on input features
   
 
 ## 📬 Sections include:
